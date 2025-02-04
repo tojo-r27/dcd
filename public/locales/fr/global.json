@@ -1,0 +1,55 @@
+{
+    "login": "Connexion",
+    "register_user": "Enregistrer un compte personnel",
+    "register_company": "Enregistrer un compte professionnel",
+    "fpassword": "Mot de passe oublié?",
+    "view_profile": "Profil",
+    "info": "Information",
+    "logout": "Se déconnecter",
+    "account_settings": "Paramètres du compte",
+    "invoice_address": "Adresse de facturation",
+    "login_activity": "Activité de connexion",
+    "personal_information": "Information personelle",
+    "user": {
+        "title": "Utilisateur",
+        "lists": "Listes des utilisateurs"
+    },
+    "company": "Société",
+    "permissions": "Permissions",
+    "roles_permissions": "Rôles et Permissions",
+    "api_keys": "Clé API",
+    "privacy_policy": "Politique de confidentialité",
+    "terms_and_conditions": "Conditions générales",
+    "log_connection": "Voici votre journal de connexion.",
+    "favorites": "Favoris",
+    "shared": "Partagé",
+    "trash": "Corbeille",
+    "all_files": "Tous les fichiers",
+    "information": "Information",
+    "invoice": {
+        "title": "Facture",
+        "subtitle": "Toutes les factures"
+    },
+    "team": {
+        "title": "Équipe",
+        "subtitle": "Listes d'utilisateurs"
+    },
+    "access_key": "Clés d'accès",
+    "settings": {
+        "title_log": "<h6>Enregistrer mes journaux d'activité</h6><p>Vous pouvez enregistrer tous vos journaux d'activité, y compris l'activité inhabituelle détectée.</p>",
+        "title_password": "<h6>Changement du mot de passe</h6><p>Définissez un mot de passe unique pour protéger votre compte.</p>",
+        "2fa": "<h6>Authentification à 2 facteurs <span class='{{ css }} ms-0'>{{ active }}</span></h6><p>Sécurisez votre compte avec la sécurité 2FA. Lorsqu'il est activé, vous devrez saisir non seulement votre mot de passe, mais également un code spécial. Vous pouvez recevoir ce code via votre adresse email.</p>"
+    },
+    "notifications": {
+        "title": "Paramètres de notification",
+        "desc": "Vous recevrez uniquement les notifications activées."
+    },
+    "bucket": {
+        "title": "Liste de tous les compartiments",
+        "new": "Nouveau compartiment",
+        "edit": "Modifier compartiment",
+        "detail": "Détail compartiment",
+        "description": "Cette liste sert à gérer votre stockage. Il fournit des détails sur tous les compartiments que vous avez créés."
+    },
+    "total": "Vous avez un total de {{numb}}."
+}

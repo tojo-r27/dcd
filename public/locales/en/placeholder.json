@@ -1,0 +1,8 @@
+{
+    "email": "Enter your email address",
+    "password": "Enter your password",
+    "rpassword": "Confirm your password",
+    "username": "Ex: johndoe",
+    "birthday": "dd/mm/yyyy",
+    "search": "Search"
+}

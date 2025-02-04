@@ -1,0 +1,23 @@
+{
+    "type": {
+        "email":    "Cette valeur n'est pas une adresse email valide.",
+        "url":      "Cette valeur n'est pas une URL valide.",
+        "number":   "Cette valeur doit être un nombre.",
+        "integer":  "Cette valeur doit être un entier.",
+        "digits":   "Cette valeur doit être numérique.",
+        "alphanum": "Cette valeur doit être alphanumérique."
+    },
+    "notblank": "Cette valeur ne peut pas être vide.",
+    "required": "Ce champ est requis.",
+    "pattern": "Cette valeur semble non valide.",
+    "min": "Cette valeur ne doit pas être inférieure à {{  numb  }}.",
+    "max": "Cette valeur ne doit pas excéder {{  numb  }}.",
+    "range": "Cette valeur doit être comprise entre {{  numb  }} et {{  numb  }}.",
+    "minlength": "Cette chaîne est trop courte. Elle doit avoir au minimum {{  numb  }} caractères.",
+    "maxlength": "Cette chaîne est trop longue. Elle doit avoir au maximum {{  numb  }} caractères.",
+    "length": "Cette valeur doit contenir entre {{  numb  }} et {{  numb  }} caractères.",
+    "mincheck": "Vous devez sélectionner au moins {{  numb  }} choix.",
+    "maxcheck": "Vous devez sélectionner {{  numb  }} choix maximum.",
+    "check": "Vous devez sélectionner entre {{  numb  }} et {{  numb  }} choix.",
+    "equalto": "Cette valeur devrait être identique."
+}

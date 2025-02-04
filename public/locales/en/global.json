@@ -1,0 +1,55 @@
+{
+    "login": "Login",
+    "register_user": "Register personal account",
+    "register_company": "Register business account",
+    "fpassword": "Forgot password?",
+    "view_profile": "Profile",
+    "info": "Information",
+    "logout": "Log Out",
+    "account_settings": "Account Settings",
+    "invoice_address": "Invoice Address",
+    "login_activity": "Login Activity",
+    "personal_information": "Personal Information",
+    "user": {
+        "title": "User",
+        "lists": "Users lists"
+    },
+    "company": "Company",
+    "permissions": "Permissions",
+    "roles_permissions": "Roles and Permissions",
+    "api_keys": "API key",
+    "privacy_policy": "Privacy policy",
+    "terms_and_conditions": "Terms and conditions",
+    "log_connection": "Here is your connection log.",
+    "favorites": "Favorites",
+    "shared": "Shared",
+    "trash": "Trash",
+    "all_files": "All files",
+    "information": "Information",
+    "invoice": {
+        "title": "Invoice",
+        "subtitle": "All Invoice"
+    },
+    "team": {
+        "title": "Team",
+        "subtitle": "User Lists"
+    },
+    "access_key": "Access key",
+    "settings": {
+        "title_log": "<h6>Save my Activity Logs</h6><p>You can save your all activity logs including unusual activity detected.</p>",
+        "title_password": "<h6>Change password</h6><p>Set a unique password to protect your account.</p>",
+        "2fa": "<h6>2 Factor Auth <span class='{{ css }} ms-0'>{{ active }}</span></h6><p>Secure your account with 2FA security. When activated, you will need to enter not only your password, but also a special code. You can receive this code via your email address.</p>"
+    },
+    "notifications": {
+        "title": "Notification Settings",
+        "desc": "You will get only notification what have enabled."
+    },
+    "bucket": {
+        "title": "All Buckets Listing",
+        "new": "New bucket",
+        "edit": "Edit bucket",
+        "detail": "Details bucket",
+        "description": "This list is for managing your storage. It provides details on all buckets you have created."
+    },
+    "total": "You have total {{numb}}."
+}

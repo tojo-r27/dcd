@@ -1,0 +1,46 @@
+{
+    "email": "Email",
+    "password": "Mot de passe",
+    "rpassword": "Confirmez votre mot de passe",
+    "fpassword": "Mot de passe oublié?",
+    "last_changed": "Dernière changement",
+    "phone":  "Téléphone",
+    "website":  "Site web",
+    "choice": {
+        "are_you": "Vous êtes",
+        "individual": "Individu",
+        "company": "Société"
+    },
+    "profile": {
+        "username": "Nom d'utilisateur",
+        "firstname": "Nom",
+        "lastname": "Prénom",
+        "tel": "Téléphone",
+        "birthday": "Date de naissance",
+        "gender": "Genre",
+        "role": "Rôle",
+        "sex": {
+            "men": "Homme",
+            "women": "Femme"
+        },
+        "last_login": "Dernière connexion",
+        "register_at": "Inscrit le",
+        "additional": "Informations complémentaires",
+        "status": "Statut"
+    },
+    "company": {
+        "name":  "Nom de la société",
+        "sector":  "Secteur",
+        "size":  "Taille de l'entreprise",
+        "type":  "Type d'entreprise",
+        "year_founded":  "Année de création"
+    },
+    "status": {
+        "blocked": "Bloqué",
+        "active": "Actif",
+        "suspended": "Suspendu"
+    },
+    "show": "Affichage",
+    "bucket_name": "Nom du compartiment",
+    "datacenter": "Centre de données"
+}

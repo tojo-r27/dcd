@@ -1,0 +1,125 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+body {
+  font-family: "Poppins", sans-serif !important;
+}
+
+h6,
+.h6,
+h5,
+.h5,
+h4,
+.h4,
+h3,
+.h3,
+h2,
+.h2,
+h1,
+.h1 {
+  font-family: "Poppins", sans-serif !important;
+}
+
+.nk-menu-link,
+.nav-tabs-card,
+.nav-tabs,
+.link {
+  font-family: "Poppins", sans-serif !important;
+}
+
+label {
+  font-size: 0.875rem !important;
+  margin-bottom: 0.5rem !important;
+}
+
+.nk-auth-body,
+.nk-auth-footer {
+  max-width: 420px !important;
+}
+
+@media (min-width: 992px) {
+  .nk-auth-container {
+    width: 35% !important;
+  }
+}
+
+.bg-abstract {
+  background-image: url(../images/background.jpg) !important;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  background-position: center center !important;
+}
+
+.link-list-opt a {
+  padding: 0.3rem 0.3rem !important;
+}
+
+.link-list-opt span {
+  color: #526484 !important;
+}
+
+.link-list-opt svg {
+  color: #526484 !important;
+}
+
+.nk-fmg-aside-wrap {
+  max-height: calc(100vh - 65px);
+}
+
+@media (min-width: 992px) {
+  .nk-fmg-aside-wrap .nk-fmg-aside-top {
+    flex-grow: 1;
+  }
+}
+
+@media (min-width: 576px) {
+  .nk-fmg-aside-wrap .nk-fmg-aside-top {
+    margin-bottom: 0;
+  }
+}
+
+.nk-fmg-aside-top .nk-fmg-menu li.active {
+  .nk-fmg-menu-item {
+    /* background-color: #ebeef2; */
+    background-color: var(--mantine-color-bright-green-6);
+  }
+
+  & > .nk-fmg-menu-item,
+  & > .nk-fmg-menu-item > .nk-fmg-menu-text {
+    /* color: var(--mantine-color-bright-green-6); */
+    color: #fff;
+  }
+}
+
+.nk-menu-item:not(.active) .nk-menu-link {
+  font-weight: 500;
+}
+
+.logo-img-md {
+  max-height: 50px;
+}
+
+.card-group-icon {
+  background-color: red;
+  padding: 8px;
+  border-radius: 4px;
+}
+.content-section {
+  padding-block: 24px;
+
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    margin-bottom: 16px;
+  }
+}
+.nk-fmg-body-content > .content-section:first-child {
+  padding-top: 0;
+}
+
+@media (min-width: 992px) {
+    .nk-auth-container {
+      width: 30% !important;
+    }
+}
